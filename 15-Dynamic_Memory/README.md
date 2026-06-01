@@ -727,6 +727,5 @@ new_keyword.exe
 
 ## Next Topic
 
-➡️ 16 - STL (Standard Template Library)
+➡️ 16 - Recursion
 
-This is where modern C++ becomes much more powerful, because STL provides ready-made data structures and algorithms that are heavily used in coding interviews and software development.
